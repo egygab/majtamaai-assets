@@ -1,0 +1,7 @@
+Majtamaai production package
+Arabic name: مجتمعي
+Tagline: نحو حياه افضل
+Installer: install_majtamaai_complete.sh
+Installer size: 53,393,046 bytes
+Installer SHA-256: 862feeb4e6d965e8c6bb8e6e2fda15f769083b2e983ab53fecc2fc4ff9ef899e
+Target: /home/mahmoud/projects/mobile/flutter/egygab_community
